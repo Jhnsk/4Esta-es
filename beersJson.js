@@ -1,0 +1,98 @@
+let beersItens = [
+  {
+    name: 'Antartica Original',
+    desc: '600 ml',
+    price: 'R$: 13,90',
+    img: 'original.png',
+  },
+  {
+    name: 'Brahma Chopp',
+    desc: '600 ml',
+    price: 'R$: 10,00',
+    img: 'brahmaC.png',
+  },
+  {
+    name: 'Brahma Duplo',
+    desc: '600 ml',
+    price: 'R$: 12,90',
+    img: 'brahmaD.png',
+  },
+  {
+    name: 'Bohemia',
+    desc: '600 ml',
+    price: 'R$: 10,90',
+    img: 'bohemiaS.png',
+  },
+  {
+    name: 'Budweiser',
+    desc: '600 ml',
+    price: 'R$: 12,90',
+    img: 'budS.png',
+  },
+  {
+    name: 'Spaten',
+    desc: '600 ml',
+    price: 'R$: 13,80',
+    img: 'spatenS.png',
+  },
+  {
+    name: 'Stella Artois',
+    desc: '600 ml',
+    price: 'R$: 15,80',
+    img: 'stellaS.png',
+  },
+  {
+    name: 'Skol',
+    desc: '600 ml',
+    price: 'R$: 9,90',
+    img: 'skolS.png',
+  },
+  {
+    name: 'Budweiser',
+    desc: 'Long Neck',
+    price: 'R$: 9,90',
+    img: 'budNeck.png',
+  },
+  {
+    name: 'Budweiser',
+    desc: 'Long Neck ø',
+    price: 'R$: 9,50',
+    img: 'budZ.png',
+  },
+  {
+    name: 'Corona',
+    desc: 'Long Neck',
+    price: 'R$: 11,80',
+    img: 'corona.png',
+  },
+  {
+    name: 'Stella Artois',
+    desc: 'Long Neck',
+    price: 'R$: 10,00',
+    img: '/stellaNeck.png',
+  },
+  {
+    name: 'Brahma chopp',
+    desc: '(350 ml)',
+    price: 'R$: 5,90',
+    img: 'brahmaCLata.png',
+  },
+  {
+    name: 'Brahma Malzbier',
+    desc: '(350 ml)',
+    price: 'R$: 7,90',
+    img: 'brahmaMLata.png',
+  },
+  {
+    name: 'Bohemia',
+    desc: '(350 ml)',
+    price: 'R$: 5,90',
+    img: 'bohemiaLata.png',
+  },
+  {
+    name: 'Skol',
+    desc: '(350 ml)',
+    price: 'R$: 5,90',
+    img: 'skolLata.png',
+  },
+  ]

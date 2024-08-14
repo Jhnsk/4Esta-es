@@ -1,0 +1,80 @@
+let ptItens = [
+  {
+    name: 'Batata Frita',
+    desc: 'Acompanha molho da casa',
+    price: 'R$: 17,90',
+    img: 'batataF.jpeg',
+  },
+  {
+    name: 'Asinha de Frango',
+    desc: 'Acompanha farofa e vinagrete (6 unid)',
+    price: 'R$: 32,90',
+    img: 'assinhaF.jpeg',
+  },
+  {
+    name: 'Pititinga',
+    desc: 'Acompanha farofa e vinagrete',
+    price: 'R$: 19,90',
+    img: 'pititinga.jpeg',
+  },
+  {
+    name: 'Isca de Frango',
+    desc: 'Acompanha molho da casa',
+    price: 'R$: 19,90',
+    img: 'isca.jpeg',
+  },
+  {
+    name: 'Tripa Suína',
+    desc: 'Acompanha farofa e salada',
+    price: 'R$: 39,90',
+    img: 'tripa.jpeg',
+  },
+  {
+    name: 'Bolinhos (8 unid)',
+    desc: 'Camarão ou bacalhau;c/molho da casa',
+    price: 'R$: 19,90',
+    img: 'bolinho.jpeg',
+  },
+  {
+    name: 'Camarão Encapotado',
+    desc: 'Acompanha molho da casa (6 unid)',
+    price: 'R$: 40,90',
+    img: 'camaraoE.jpeg',
+  },
+  {
+    name: 'Queijo Coalho',
+    desc: 'Acompanha melaço',
+    price: 'R$: 15,90',
+    img: 'coalho.jpeg',
+  },
+  {
+    name: 'Carne do Sol c/ Fritas',
+    desc: 'Acompanha apenas fritas',
+    price: 'R$: 44,90',
+    img: 'Sol.jpeg',
+  },
+  {
+    name: 'Lombinho',
+    desc: 'Frango ou suíno, acompanha feijão tropeiro e vinagrete',
+    price: 'R$: 9,90',
+    img: 'lombinho.jpeg',
+  },
+  {
+    name: 'Porção de Calabresa',
+    desc: '(3 unid), acompanha farofa e vinagrete',
+    price: 'R$: 19,90',
+    img: 'calabresa.jpeg',
+  },
+  {
+    name: 'Pão de Alho',
+    desc: '1 unidade',
+    price: 'R$: 6,90',
+    img: 'paodealho.jpeg',
+  },
+  {
+    name: 'Codorna',
+    desc: 'Acompanha farofa e vinagrete',
+    price: 'R$: 15,90',
+    img: 'codorna.jpeg',
+  },
+  ]
