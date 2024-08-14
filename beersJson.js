@@ -69,7 +69,7 @@ let beersItens = [
     name: 'Stella Artois',
     desc: 'Long Neck',
     price: 'R$: 10,00',
-    img: '/stellaNeck.png',
+    img: 'stellaNeck.png',
   },
   {
     name: 'Brahma chopp',
